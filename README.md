@@ -31,6 +31,7 @@ ubah ke
 |RaviPrayoga    | 14116081 | https://github.com/raviprayoga/14116081-PWL |
 |Nurma Yunita Sari | 14117085 | https://github.com/nrmynitasr/PWL |
 |Muhammad Taufiq Hidayat | 14116162 | https://github.com/mtfiqh/PWL |
+|Rizki Bhaskara M.E | 14117084 | https://github.com/rizkibhaskaraa/PWL-ITERA |
 |\<namalu>|\<nimlu>|\<linkgitlu>|
 
 ### Lanjutin
